@@ -1,0 +1,46 @@
+
+
+.body{
+    background-image: url("back.jpg");
+}
+h1 {
+    color:blue;
+    text-align: center;
+}
+
+
+.menu{
+     display:flex;
+    justify-content : space-between
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+ color:blue;
+}
+
+.cert{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.grid{
+display:flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    color: black;
+    text-align: center;
+}
